@@ -1,0 +1,6 @@
+{
+  "name": "IdeaSpark",
+  "description": "An interactive, collaborative platform bridging the gap between product visionaries and technical builders with step-by-step conceptual pitches and upvoting indices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
